@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "id": "895d",
+      "name": "ashwini",
+      "email": "rauta@4015.gmail.com",
+      "phone": "123457677",
+      "city": "shrirampur",
+      "password": "ashu1234"
+    }
+  ],
+  "fooditems":[
+    {
+        "id":1,
+        "name":"Delicious Pizza",
+        "price":20,
+        "image":"./images/f1.png",
+        "category":"Pizza",
+        "stock":5
+    },
+    {
+      "id":2,
+      "name":"Delicious Burger",
+      "price":50,
+      "image":"./images/f2.png",
+      "category":"Burger",
+      "stock":3
+    },
+    {
+    "id":3,
+    "name":"Delicious Pizza",
+    "price":20,
+    "image":"./images/f3.png",
+    "category":"Pizza",
+    "stock":5
+   },
+   {
+  "id":4,
+  "name":"Delicious Pasta",
+  "price":18,
+  "image":"./images/f4.png",
+  "category":"Pasta",
+  "stock":5
+  },
+{
+  "id":5,
+  "name":"Freanch Frise",
+  "price":10,
+  "image":"./images/f5.png",
+  "category":"Frise",
+  "stock":6
+},
+{
+  "id":6,
+  "name":"Delicious Pizza",
+  "price":20,
+  "image":"./images/f6.png",
+  "category":"Pizza",
+  "stock":5
+},
+{
+  "id":7,
+  "name":"Teasty Burger",
+  "price":20,
+  "image":"./images/f7.png",
+  "category":"Burger",
+  "stock":5
+},
+{
+  "id":8,
+  "name":"Teasty Burger",
+  "price":20,
+  "image":"./images/f8.png",
+  "category":"Burger",
+  "stock":10
+},
+{
+  "id":9,
+  "name":"Delisious Pasta",
+  "price":20,
+  "image":"./images/f9.png",
+  "category":"Pasta",
+  "stock":10
+}
+  ]
+}
+

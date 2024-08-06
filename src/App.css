@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+}
+
+.bgimage 
+{
+    background-image: url('hero-bg.jpg');
+    background-position:right;
+    height: 700px;
+    background-size: cover;
+    background-attachment:scroll;
+}
+
+.image1:hover 
+{
+    transform: scale(1.1,1.1);
+    overflow: hidden;
+    transition: 2s;
+}
+
+.link
+{
+     text-decoration: none;
+}
+.tag 
+{
+   /* width: 30px;
+   height: 30px; */
+   color: #222831;
+   border: 1px solid black;
+   border-radius: 50%;
+  align-items: center;
+}
+.tag:hover 
+{
+    color: yellow;
+}
+  input 
+  {
+      width: 100%;
+      height: 50px;
+  }
+  btn1 
+  {
+      
+  }
+  .select 
+  {
+    width: 100%;
+    height: 50px; 
+  }
+
+.about-img 
+{
+   padding-top: 50px;
+   padding-bottom:50px;  
+   padding-left: 50px;
+}
+
+.about-p 
+{
+    align-items: center;
+    /* padding-right: 200px; */
+}
